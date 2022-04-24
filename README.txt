@@ -7,4 +7,4 @@ The password generator works like this:
 3.click ok for"yes" or cancel for "no" for all prompts.
 4.copy and paste the password to your clipboard or save it somewhere.
 
-application is accessible her: https://sscroggs11.github.io/Password_Generator/
+application is accessible here: https://sscroggs11.github.io/Password_Generator/
